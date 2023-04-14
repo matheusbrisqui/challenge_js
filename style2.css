@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+   color: rgb(67, 53, 105);
+}
+body{
+    background-color: black;
+}
+p{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+.imagem-centralizada{
+    display: block;
+    margin: 0 auto;
+}
